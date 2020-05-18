@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfChat", "WpfChat\WpfChat.csproj", "{74249191-EF5A-412D-BE07-EEB7BB02D460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterServer", "MasterServer\MasterServer.csproj", "{FB5CB44C-738B-45CA-81CD-31BC910C83E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeClient", "FakeClient\FakeClient.csproj", "{9DD0B3BC-305F-416F-935B-4846BDC1DBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74249191-EF5A-412D-BE07-EEB7BB02D460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74249191-EF5A-412D-BE07-EEB7BB02D460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74249191-EF5A-412D-BE07-EEB7BB02D460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74249191-EF5A-412D-BE07-EEB7BB02D460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5CB44C-738B-45CA-81CD-31BC910C83E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5CB44C-738B-45CA-81CD-31BC910C83E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5CB44C-738B-45CA-81CD-31BC910C83E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5CB44C-738B-45CA-81CD-31BC910C83E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD0B3BC-305F-416F-935B-4846BDC1DBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD0B3BC-305F-416F-935B-4846BDC1DBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD0B3BC-305F-416F-935B-4846BDC1DBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD0B3BC-305F-416F-935B-4846BDC1DBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66786A84-E1CC-4AEF-9822-E6A8AE8039B9}
+	EndGlobalSection
+EndGlobal
